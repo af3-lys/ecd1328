@@ -1,0 +1,11 @@
+$main-color: #3C2470;
+
+@import '_banner';
+@import '_timer';
+@import '_arrows';
+@import '_dots';
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
